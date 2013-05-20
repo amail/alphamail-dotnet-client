@@ -31,7 +31,7 @@ namespace Comfirm.AlphaMail.Services.Client.Entities
     public class EmailMessagePayload
     {
         /// <summary>
-        /// Id of email project in Alpha Mail
+        /// Id of email project in AlphaMail
         /// </summary>
         public int ProjectId { get; set; }
 
@@ -61,7 +61,7 @@ namespace Comfirm.AlphaMail.Services.Client.Entities
         public string ReceiverEmail { get; set; }
 
         /// <summary>
-        /// Serialized data used to render newsletter
+        /// Serialized data used to render email
         /// </summary>
         public object Body
         {

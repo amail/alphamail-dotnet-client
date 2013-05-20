@@ -34,7 +34,7 @@ using Comfirm.Services.Client.Rest.Core;
 namespace Comfirm.AlphaMail.Services.Client
 {
     /// <summary>
-    /// Service used to handle transactional emails with Alpha-mail
+    /// Service used to handle Transactional Emails with AlphaMail
     /// </summary>
     public class AlphaMailEmailService : IAlphaMailService, IEmailService
     {
