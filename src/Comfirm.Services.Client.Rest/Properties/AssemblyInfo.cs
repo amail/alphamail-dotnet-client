@@ -1,12 +1,12 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Comfirm RESTful Service Client")]
+[assembly: AssemblyTitle("AlphaMail RESTful Service Client")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Comfirm")]
 [assembly: AssemblyProduct("Comfirm AlphaMail")]
-[assembly: AssemblyCopyright("Copyright © Comfirm 2012")]
+[assembly: AssemblyCopyright("Copyright © Comfirm 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
